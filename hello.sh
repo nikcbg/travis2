@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-echo bye
+echo hello
 
